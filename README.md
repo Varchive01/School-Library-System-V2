@@ -3,16 +3,16 @@
 This is a full-stack web application designed to automate and streamline library operations. [cite_start]This version is a significant upgrade from my initial Java-based system, transitioning into a web platform for better accessibility and real-time database management.
 
 ## 🛠 Tech Stack
-* [cite_start]**Frontend:** HTML5, CSS3, JavaScript (JS) 
-* [cite_start]**Backend:** PHP 
-* [cite_start]**Database:** MySQL (SQL) 
-* [cite_start]**Logic:** Object-Oriented Programming (OOP) 
+* **Frontend:** HTML5, CSS3, JavaScript (JS) 
+* **Backend:** PHP 
+* **Database:** MySQL (SQL) 
+* **Logic:** Object-Oriented Programming (OOP) 
 
 ## ✨ Key Features
-* [cite_start]**User Authentication:** Secure login system for students and administrators.
-* [cite_start]**Inventory Management:** Add, update, and track book stock in real-time.
-* [cite_start]**Borrowing System:** Records borrowing history and calculates due dates.
-* [cite_start]**Responsive UI:** Optimized for both desktop and mobile viewing.
+* **User Authentication:** Secure login system for students and administrators.
+* **Inventory Management:** Add, update, and track book stock in real-time.
+* **Borrowing System:** Records borrowing history and calculates due dates.
+* *Responsive UI:** Optimized for both desktop and mobile viewing.
 
 ## ⚙️ Installation & Setup
 1. Clone the repository to your local machine.
